@@ -1,0 +1,3 @@
+基本看用什么框架了，vue和react用VS code比较多，电脑性能不好的就用绿色版HX，Angela就用webstrom比较多，也看个人习惯，我现在vue用VS code
+翻墙：shadowsocks
+
